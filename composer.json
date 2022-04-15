@@ -1,0 +1,19 @@
+{
+    "name": "cleantalk-apbct/templates",
+    "description": "Traits here",
+    "version": "1.0.0",
+    "type": "cleantalk-apbct-lib",
+    "authors": [
+        {
+            "name": "CleanTalk Team",
+            "email": "support@cleantalk.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "CleantalkApbct\\Templates\\": "src/"
+        }
+    }
+}
