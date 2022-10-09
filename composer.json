@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "cleantalk-apbct/installer": "*"
+    },
 	"autoload": {
         "psr-4": {
             "CleantalkApbct\\Templates\\": "src/"
