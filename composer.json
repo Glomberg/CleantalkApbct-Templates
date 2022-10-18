@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "cleantalk/installer": "*"
+        "cleantalk/apbct-installer": "*"
     },
 	"autoload": {
         "psr-4": {
